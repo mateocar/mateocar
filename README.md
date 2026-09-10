@@ -12,7 +12,7 @@
 
 ## 🧑‍🚀 Sobre mí
 
-```python
+python
 class Desarrollador:
     def __init__(self):
         self.nombre       = Mateo Cardenas Osorio
@@ -24,7 +24,7 @@ class Desarrollador:
 
     def estado_actual(self):
         return "🔭 Construyendo APIs con FastAPI | 🌱 Estudiando análisis de datos"
-```
+
 
 - 🔧 Me especializo en crear **APIs robustas y escalables** con Python y FastAPI
 - 🗄️ Diseño y gestiono bases de datos con **PostgreSQL y MySQL**
@@ -35,7 +35,7 @@ class Desarrollador:
 
 ## 🛠️ Mis Herramientas tecnológicas
 
-<div align="center">
+<div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Python+%2B+FastAPI+%2B+SQL)](https://git.io/typing-svg)
 
