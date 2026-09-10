@@ -12,10 +12,10 @@
 
 ## 🧑‍🚀 Sobre mí
 
-python
+```python
 class Desarrollador:
     def __init__(self):
-        self.nombre       = Mateo Cardenas Osorio
+        self.nombre       = "Mateo Cardenas Osorio"
         self.rol          = "Ingeniero de Software Jr. — Backend 🐍"
         self.stack        = ["Python", "FastAPI", "Java"]
         self.bases_datos  = ["PostgreSQL", "MySQL"]
@@ -24,8 +24,7 @@ class Desarrollador:
 
     def estado_actual(self):
         return "🔭 Construyendo APIs con FastAPI | 🌱 Estudiando análisis de datos"
-
-
+```
 - 🔧 Me especializo en crear **APIs robustas y escalables** con Python y FastAPI
 - 🗄️ Diseño y gestiono bases de datos con **PostgreSQL y MySQL**
 - ☕ Fan del café y de escribir código limpio
@@ -50,16 +49,6 @@ class Desarrollador:
 
 </div>
 
----
-
-## 📊 Mis estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateocar&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateocar&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</div>
-
----
 
 ## 🌱 Actualmente
 
