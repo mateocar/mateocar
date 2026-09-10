@@ -36,13 +36,11 @@ class Desarrollador:
 
 <div align="center">
 
-| Lenguajes & Frameworks | Bases de datos | Herramientas |
+| ⚡ Lenguajes & Frameworks | 🗄️ Bases de datos | 🔧 Herramientas |
 |:---:|:---:|:---:|
-| [![Skills](https://skillicons.dev/icons?i=py,java,fastapi&theme=dark)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=git,github,vscode,pandas&theme=dark)](https://skillicons.dev) |
+| <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python"/> <img src="https://cdn.simpleicons.org/java/ED8B00" height="45" alt="Java"/> <img src="https://cdn.simpleicons.org/fastapi/009688" height="45" alt="FastAPI"/> | <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45" alt="PostgreSQL"/> <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="MySQL"/> | <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="Git"/> <img src="https://cdn.simpleicons.org/github/FFFFFF" height="45" alt="GitHub"/> <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="45" alt="VS Code"/> <img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas"/> |
 
 </div>
-
-
 ## 🌱 Actualmente
 
 - 📖 Estudiando **análisis de datos**: Pandas, NumPy y Power BI
