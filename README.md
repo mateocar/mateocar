@@ -34,18 +34,11 @@ class Desarrollador:
 
 ## 🛠️ Mis Herramientas tecnológicas
 
-<div>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Python+%2B+FastAPI+%2B+SQL)](https://git.io/typing-svg)
-
-### Lenguajes & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,java,fastapi&theme=dark)](https://skillicons.dev)
-
-### Bases de datos
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)](https://skillicons.dev)
-
-### Herramientas
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pandas&theme=dark)](https://skillicons.dev)
+| Lenguajes & Frameworks | Bases de datos | Herramientas |
+|:---:|:---:|:---:|
+| [![Skills](https://skillicons.dev/icons?i=py,java,fastapi&theme=dark)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=git,github,vscode,pandas&theme=dark)](https://skillicons.dev) |
 
 </div>
 
